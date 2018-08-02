@@ -4,9 +4,6 @@ about: Define your User Story here.
 
 ---
 
-# UserStory Title
-
-
 ### UserStory 
 Insert UserStory here.
 
