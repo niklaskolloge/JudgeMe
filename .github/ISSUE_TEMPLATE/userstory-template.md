@@ -8,7 +8,7 @@ about: Define your User Story here.
 Insert UserStory here.
 
 
-###Type 
+### Type 
 - [ ] Customer
 - [ ] Product
 - [ ] System
@@ -17,7 +17,7 @@ Insert UserStory here.
 - [ ] Other
 
 
-###Quality Checklist
+### Quality Checklist
 - [ ] Role
 - [ ] Functionality
 - [ ] Benefit
